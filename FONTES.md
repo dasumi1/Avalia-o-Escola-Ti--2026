@@ -37,8 +37,8 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
    dúvida, o professor pede o link e pergunta sobre o código.[^plagio]
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
-| --- | --- | --- |
-| — | | |
+|---|---|---|
+| 1 | https://chatgpt.com/share/6ac6ca09-9ac0-83e8-81fa-ac3d4d0a5e4c | Consulta para elaboração do constitution.md, definição das regras do projeto, padrões REST e tratamento de erros. |
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
