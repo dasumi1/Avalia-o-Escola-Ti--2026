@@ -17,6 +17,13 @@
 - **Testes automatizados:** pytest.
   - Ferramenta integrada ao ecossistema Python, que facilita a criação, organização e execução de testes automatizados.
 
+## Configuração do Servidor
+
+- **Host:** localhost
+- **Porta:** 8005
+- **Base URL:** http://localhost:8005
+- O Uvicorn deve executar a aplicação na porta 8005.
+
 ## Estrutura de Arquivos a Gerar
 
 - **`main.py`:** configuração do FastAPI e definição das rotas da API.

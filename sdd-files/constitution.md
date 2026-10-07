@@ -29,6 +29,7 @@
 
 ## 6. Datas
 - As datas devem seguir o padrão ISO 8601, no formato `AAAA-MM-DD`.
+- Datas e horários dos bilhetes devem seguir o padrão ISO-8601 com fuso -03:00.
 
 ## 7. Conformidade com a Especificação
 - A implementação deve respeitar os requisitos definidos no `spec.md`.
