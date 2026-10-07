@@ -1,0 +1,14 @@
+## Checklist — Casos de Uso
+- [ ] **Scaffolding: main.py com app FastAPI vazia.**
+- [ ] **UC1 — Abrir bilhete**
+- [ ] **UC2 — Encerrar bilhete**
+- [ ] **UC3 — Listar bilhetes ativos**
+- [ ] **UC4 — Gerar relatório diário**
+- [ ] **UC5 — Cancelar bilhete**
+- [ ] **UC6 — Consultar histórico por placa**
+- [ ] **UC7 — Aplicar tolerância gratuita**
+- [ ] **UC8 — Impedir múltiplos bilhetes abertos por placa**
+- [ ] **UC9 — Gerar relatório por período**
+- [ ] **UC10 — Verificar bilhete aberto por placa**
+- [ ] **UC11 — Validar placa**
+- [ ] **Rodar a suíte completa e corrigir falhas**
