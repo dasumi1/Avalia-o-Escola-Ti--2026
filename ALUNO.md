@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: dasumi1
+Nome: Daniely Suemi Mikami
 
-RA: >>> PREENCHER <<<
+RA: 23175979-2
 
 Conta GitHub: @dasumi1
 
